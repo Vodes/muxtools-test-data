@@ -1,0 +1,351 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+YCbCr Matrix: TV.709
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,25,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,60,60,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.52,0:00:18.06,Default,,25,25,0,,{\an1}I'll become strong enough
+Dialogue: 0,0:00:18.14,0:00:19.94,Default,,25,25,0,,{\an3}to eradicate
+Dialogue: 0,0:00:20.02,0:00:23.98,Default,,25,25,0,,{\an5}all the inequality and injustice...
+Dialogue: 0,0:00:25.57,0:00:27.19,Default,,25,25,0,,{\an4}in this world!
+Dialogue: 0,0:00:46.05,0:00:47.84,Default,,25,25,0,,{\an6}You're finished now,
+Dialogue: 0,0:00:48.17,0:00:50.55,Default,,25,25,0,,{\an7}Conqueror Lufas Maphaahl!
+Dialogue: 0,0:00:51.26,0:00:52.60,Default,,25,25,0,,{\an9}Fools.
+Dialogue: 0,0:00:52.93,0:00:54.68,Default,,0,0,0,,It's {\i1}you{\i0} who are finished!
+Dialogue: 0,0:02:10.92,0:02:12.59,Default,,0,0,0,,I'm not done yet.
+Dialogue: 0,0:02:12.68,0:02:14.84,Default,,0,0,0,,The Climax skill?!
+Dialogue: 0,0:02:14.93,0:02:16.47,Default,,0,0,0,,You took my attacks on purpose?!
+Dialogue: 0,0:02:26.81,0:02:28.11,Default,,0,0,0,,Subspace Seal!
+Dialogue: 0,0:02:44.58,0:02:46.71,Default,,0,0,0,,Splendidly done, Heroes!
+Dialogue: 0,0:02:46.79,0:02:49.67,Default,,0,0,0,,Perhaps you all can defeat him then!
+Dialogue: 0,0:02:49.75,0:02:53.22,Default,,0,0,0,,The Devil King, Orm!
+Dialogue: 0,0:03:02.64,0:03:04.44,Default,,0,0,0,,Oh damn!
+Dialogue: 0,0:03:04.52,0:03:08.19,Default,,0,0,0,,My Lufas really held out to the very end.
+Dialogue: 0,0:03:08.27,0:03:09.40,Default,,0,0,0,,Still...
+Dialogue: 0,0:03:09.48,0:03:12.40,Default,,0,0,0,,{\an8}WE CAN JUST CALL THIS THE END OF THE GAME, YEAH?\N- It was a big hit.
+Dialogue: 0,0:03:12.65,0:03:15.03,Default,,0,0,0,,I have no regrets.
+Dialogue: 0,0:03:15.78,0:03:16.82,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:03:16.95,0:03:19.62,Default,,0,0,0,,Alovenus, Goddess of all Creation?
+Dialogue: 0,0:03:19.99,0:03:24.16,Default,,0,0,0,,That's the goddess who created\Nthe world of Exgate in this setting, right?
+Dialogue: 0,0:03:25.75,0:03:28.42,Default,,0,0,0,,Does that mean this is an official\Nmessage from the company?
+Dialogue: 0,0:03:28.50,0:03:32.05,Default,,0,0,0,,Lufas had become a major boss on par\Nwith the Devil King at this point.
+Dialogue: 0,0:03:32.13,0:03:34.88,Default,,0,0,0,,I guess the company had to do something\Nabout what happened, right?
+Dialogue: 0,0:03:35.47,0:03:37.38,Default,,0,0,0,,{\an8}I don't know what kind of role\Nyou have planned,
+Dialogue: 0,0:03:37.47,0:03:40.47,Default,,0,0,0,,{\an8}WILL YOU ACCEPT?\N- but I'll take it on!
+Dialogue: 0,0:03:47.19,0:03:48.94,Default,,0,0,0,,They've appeared! The Hero!
+Dialogue: 0,0:03:49.02,0:03:51.36,Default,,0,0,0,,- Then the summoning worked?!\N- {\i1}What is this?{\i0}
+Dialogue: 0,0:03:51.44,0:03:52.73,Default,,0,0,0,,- W-What?\N- {\i1}What's going on?{\i0}
+Dialogue: 0,0:03:52.82,0:03:54.07,Default,,0,0,0,,That woman is-!
+Dialogue: 0,0:03:54.15,0:03:56.03,Default,,0,0,0,,- W-We didn't get the Hero...\N- {\i1}Where am I?{\i0}
+Dialogue: 0,0:03:56.61,0:03:59.78,Default,,0,0,0,,- We've broken the seal on her!\N- {\i1}Some prank?{\i0}
+Dialogue: 0,0:04:02.74,0:04:04.50,Default,,0,0,0,,{\i1}Boobs?!{\i0}{\i1}They're heavy!{\i0}
+Dialogue: 0,0:04:05.12,0:04:06.75,Default,,0,0,0,,{\i1}H-Huh?!{\i0}
+Dialogue: 0,0:04:06.83,0:04:09.13,Default,,0,0,0,,{\i1}And there's something... something on my back?{\i0}
+Dialogue: 0,0:04:13.42,0:04:14.46,Default,,0,0,0,,{\i1}Have I...{\i0}
+Dialogue: 0,0:04:14.92,0:04:16.55,Default,,0,0,0,,{\i1}become Lufas?!{\i0}
+Dialogue: 0,0:04:17.59,0:04:18.76,Default,,0,0,0,,{\i1}No, no! No way!{\i0}
+Dialogue: 0,0:04:18.84,0:04:21.22,Default,,0,0,0,,{\i1}"Watching a cute girl is more{\i0}\N{\i1}motivating than some guy!"{\i0}
+Dialogue: 0,0:04:21.30,0:04:24.26,Default,,0,0,0,,{\i1}was the stupid reason I spent several hours{\i0}\N{\i1}agonizing over character creation!{\i0}
+Dialogue: 0,0:04:24.35,0:04:26.10,Default,,0,0,0,,{\i1}I can't watch her if I {\i0}am{\i1} her!{\i0}\N{\i1}A dream?!{\i0}
+Dialogue: 0,0:04:26.18,0:04:28.31,Default,,0,0,0,,{\i1}Or have I been sucked into the game?!{\i0}
+Dialogue: 0,0:04:28.39,0:04:30.10,Default,,0,0,0,,{\i1}Impossible. That only happens in manga!{\i0}
+Dialogue: 0,0:04:30.40,0:04:31.94,Default,,0,0,0,,{\i1}For now I need information!{\i0}
+Dialogue: 0,0:04:32.06,0:04:34.19,Default,,0,0,0,,{\i1}U-Umm, do you have a moment?{\i0}
+Dialogue: 0,0:04:34.69,0:04:37.74,Default,,0,0,0,,Well, well, we have yet to grasp\Nwhat's going on here,
+Dialogue: 0,0:04:37.82,0:04:40.70,Default,,0,0,0,,would you care to explain it to us?
+Dialogue: 0,0:04:41.74,0:04:43.49,Default,,0,0,0,,{\i1}No! That's not what I meant!{\i0}
+Dialogue: 0,0:04:43.58,0:04:46.66,Default,,0,0,0,,- {\i1}I just have a few questions—{\i0}\N- What's the matter, children of men?
+Dialogue: 0,0:04:46.75,0:04:48.66,Default,,0,0,0,,Raise your heads.
+Dialogue: 0,0:04:48.75,0:04:52.58,Default,,0,0,0,,Is that the standard posture\Nyou take amongst yourselves?
+Dialogue: 0,0:04:52.71,0:04:56.09,Default,,0,0,0,,If so, then we apologize for our ignorance.
+Dialogue: 0,0:04:56.17,0:04:58.67,Default,,0,0,0,,{\i1}That's so wrong!{\i0}\N{\i1}This just sounds like an indirect insult!{\i0}
+Dialogue: 0,0:04:58.76,0:05:00.18,Default,,0,0,0,,{\i1}And what's wrong with the way I'm talking?!{\i0}
+Dialogue: 0,0:05:00.26,0:05:02.05,Default,,0,0,0,,{\i1}It's what I used when I{\i0}\N{\i1}role-played Lufas in the game!{\i0}
+Dialogue: 0,0:05:02.14,0:05:03.93,Default,,0,0,0,,{\i1}Then there's this pressure too!{\i0}
+Dialogue: 0,0:05:04.01,0:05:06.68,Default,,0,0,0,,{\i1}Right! Her racial skill, Pressure!{\i0}
+Dialogue: 0,0:05:06.77,0:05:08.73,Default,,0,0,0,,{\i1}That's probably active right now!{\i0}
+Dialogue: 0,0:05:08.81,0:05:11.35,Default,,0,0,0,,{\i1}Calm down, my intimidation!{\i0}
+Dialogue: 0,0:05:11.44,0:05:14.07,Default,,0,0,0,,{\i1}Calm down, calm down!{\i0}
+Dialogue: 0,0:05:16.53,0:05:19.20,Default,,0,0,0,,We have been thoughtless.
+Dialogue: 0,0:05:19.28,0:05:22.20,Default,,0,0,0,,Of course you would find it\Nchallenging to talk like this.
+Dialogue: 0,0:05:22.28,0:05:24.03,Default,,0,0,0,,{\i1}Stop the skill!{\i0}
+Dialogue: 0,0:05:24.12,0:05:25.58,Default,,0,0,0,,{\i1}Take it easy, Pressure!{\i0}
+Dialogue: 0,0:05:25.66,0:05:27.08,Default,,0,0,0,,{\i1}Please stop!{\i0}
+Dialogue: 0,0:05:27.16,0:05:28.25,Default,,0,0,0,,{\i1}Please!{\i0}
+Dialogue: 0,0:05:35.04,0:05:36.46,Default,,0,0,0,,The air's...
+Dialogue: 0,0:05:36.55,0:05:37.55,Default,,0,0,0,,back to normal?
+Dialogue: 0,0:05:37.67,0:05:39.88,Default,,0,0,0,,T-There's no doubt!
+Dialogue: 0,0:05:40.47,0:05:43.01,Default,,0,0,0,,We've truly resurrected the Conqueror!
+Dialogue: 0,0:05:43.09,0:05:44.60,Default,,0,0,0,,You there, elf.
+Dialogue: 0,0:05:46.43,0:05:49.56,Default,,0,0,0,,You seem to know of us.
+Dialogue: 0,0:05:49.64,0:05:54.35,Default,,0,0,0,,So we shall have {\i1}you{\i0} explain\Nthe state of affairs.
+Dialogue: 0,0:05:54.44,0:05:56.23,Default,,0,0,0,,Do not be frightened.
+Dialogue: 0,0:05:56.32,0:05:58.86,Default,,0,0,0,,Simply tell us {\i1}everything{\i0}.
+Dialogue: 0,0:06:03.82,0:06:06.58,Default,,0,0,0,,...and there you have it.
+Dialogue: 0,0:06:06.66,0:06:07.70,Default,,0,0,0,,I see.
+Dialogue: 0,0:06:08.20,0:06:11.62,Default,,0,0,0,,Two hundred years have passed\Nsince we were sealed.
+Dialogue: 0,0:06:11.91,0:06:14.96,Default,,0,0,0,,The Devil King lives still.
+Dialogue: 0,0:06:15.00,0:06:18.67,Default,,0,0,0,,Thus, to defeat him, you tried\Nusing Exgate to summon a Hero,
+Dialogue: 0,0:06:18.75,0:06:20.59,Default,,0,0,0,,and we appeared instead.
+Dialogue: 0,0:06:20.67,0:06:22.34,Default,,0,0,0,,Y-Yes.
+Dialogue: 0,0:06:22.42,0:06:25.26,Default,,0,0,0,,{\i1}Does that mean I'm really in the game?{\i0}
+Dialogue: 0,0:06:25.34,0:06:28.85,Default,,0,0,0,,{\i1}I'm really here two hundred years{\i0}\N{\i1}after the Mizgarz I knew?{\i0}
+Dialogue: 0,0:06:29.43,0:06:32.35,Default,,0,0,0,,{\i1}I'm surprised to see them{\i0}\N{\i1}using the Exgate spell.{\i0}
+Dialogue: 0,0:06:32.43,0:06:34.31,Default,,0,0,0,,{\i1}It was just a name before.{\i0}
+Dialogue: 0,0:06:34.39,0:06:39.19,Default,,0,0,0,,{\i1}The name {\i0}Exgate Online{\i1} originated from it{\i0}\N{\i1}and it was a cornerstone of the game.{\i0}
+Dialogue: 0,0:06:40.07,0:06:43.82,Default,,0,0,0,,{\i1}No, I can't go into the lore now, I have to{\i0}\N{\i1}do something about this situation first!{\i0}
+Dialogue: 0,0:06:45.41,0:06:49.12,Default,,0,0,0,,{\i1}They're incredibly frightened,{\i0}\N{\i1}I should leave soon.{\i0}
+Dialogue: 0,0:06:49.33,0:06:50.37,Default,,0,0,0,,Ahem.
+Dialogue: 0,0:06:51.08,0:06:53.50,Default,,0,0,0,,To think the Devil King is still alive\Nafter all this time.
+Dialogue: 0,0:06:54.12,0:06:55.25,Default,,0,0,0,,But fear not.
+Dialogue: 0,0:06:55.33,0:06:58.71,Default,,0,0,0,,We have no intention of\Ndoing anything with this world.
+Dialogue: 0,0:06:59.25,0:07:03.76,Default,,0,0,0,,We may have been defeated,\Nbut we were satisfied with that battle.
+Dialogue: 0,0:07:03.84,0:07:06.93,Default,,0,0,0,,Right now we are not the Conqueror, Lufas,
+Dialogue: 0,0:07:07.01,0:07:10.10,Default,,0,0,0,,but a mere young girl whose hopes were dashed.
+Dialogue: 0,0:07:11.56,0:07:13.52,Default,,0,0,0,,W-Where are you going?
+Dialogue: 0,0:07:14.23,0:07:18.98,Default,,0,0,0,,I want to see the world and\Nappreciate it as it is.
+Dialogue: 0,0:07:19.23,0:07:25.74,Default,,0,0,0,,Therefore, you may forget about us and conduct\Nanother Hero Summoning or whatever pleases you.
+Dialogue: 0,0:07:26.57,0:07:29.57,Default,,0,0,0,,We shall meet again, if the chance arises.
+Dialogue: 0,0:07:32.87,0:07:36.92,Default,,0,0,0,,{\i1}And somehow, I understand{\i0}\N{\i1}how to move my wings!{\i0}
+Dialogue: 0,0:07:42.13,0:07:46.22,Default,,0,0,0,,{\i1}To be honest,{\i0}\N{\i1}I've been excited by this situation.{\i0}
+Dialogue: 0,0:07:50.30,0:07:53.39,Default,,0,0,0,,{\i1}Because I get to see my beloved{\i0}\N{\i1}world of {\i0}Exgate Online{\i1},{\i0}
+Dialogue: 0,0:07:53.47,0:07:55.93,Default,,0,0,0,,{\i1}and I get to walk through it as Lufas!{\i0}
+Dialogue: 0,0:07:56.27,0:07:59.52,Default,,0,0,0,,{\an8}A WILD LAST BOSS APPEARS!
+Dialogue: 0,0:08:03.23,0:08:06.95,Default,,0,0,0,,{\i1}As a gamer, what could{\i0}\N{\i1}be more fun than this?!{\i0}
+Dialogue: 0,0:08:07.41,0:08:09.66,Default,,0,0,0,,{\i1}As for how to get back to my world...{\i0}
+Dialogue: 0,0:08:09.74,0:08:12.03,Default,,0,0,0,,{\i1}Well, I'll figure that out later!{\i0}
+Dialogue: 0,0:08:13.74,0:08:14.75,Default,,0,0,0,,{\i1}Hmm?{\i0}
+Dialogue: 0,0:08:14.83,0:08:15.95,Default,,0,0,0,,{\i1}That's...{\i0}
+Dialogue: 0,0:08:16.33,0:08:19.29,Default,,0,0,0,,{\i1}I see! So it's still around?{\i0}
+Dialogue: 0,0:08:20.25,0:08:22.46,Default,,0,0,0,,{\i1}I know where I'm headed next!{\i0}
+Dialogue: 0,0:08:26.55,0:08:28.43,Default,,0,0,0,,{\i1}Exgate Online{\i0}.
+Dialogue: 0,0:08:28.51,0:08:31.72,Default,,0,0,0,,{\i1}An online fantasy game{\i0}\N{\i1}about swords and sorcery,{\i0}
+Dialogue: 0,0:08:31.80,0:08:33.76,Default,,0,0,0,,{\i1}set in the parallel world of Mizgarz.{\i0}
+Dialogue: 0,0:08:33.85,0:08:37.35,Default,,0,0,0,,{\i1}The draw of the game was its "War" system.{\i0}
+Dialogue: 0,0:08:37.44,0:08:42.02,Default,,0,0,0,,{\an8}WAR SYSTEM\N- {\i1}Different nations engaged in PvP combat.{\i0}
+Dialogue: 0,0:08:42.11,0:08:46.40,Default,,0,0,0,,{\i1}The winners conquered the losing nation.{\i0}
+Dialogue: 0,0:08:46.49,0:08:49.53,Default,,0,0,0,,{\i1}Another one of its draws{\i0}\N{\i1}was its "Novel" system.{\i0}
+Dialogue: 0,0:08:49.61,0:08:52.70,Default,,0,0,0,,{\i1}It was a system that adapted{\i0}\N{\i1}players' in-game actions{\i0}
+Dialogue: 0,0:08:52.78,0:08:56.66,Default,,0,0,0,,{\i1}into a story that was published{\i0}\N{\i1}as its official history.{\i0}
+Dialogue: 0,0:08:56.75,0:08:59.71,Default,,0,0,0,,{\i1}I made Lufas the strongest character{\i0}\N{\i1}I possibly could.{\i0}
+Dialogue: 0,0:08:59.79,0:09:04.00,Default,,0,0,0,,{\i1}I raised her level, spent money on items, and{\i0}\N{\i1}maintained my position as the game's top player.{\i0}
+Dialogue: 0,0:09:04.09,0:09:05.34,Default,,0,0,0,,{\i1}And then...{\i0}
+Dialogue: 0,0:09:07.01,0:09:11.05,Default,,0,0,0,,{\i1}I finally managed to unify Mizgarz for{\i0}\N{\i1}the first time in the game's history,{\i0}
+Dialogue: 0,0:09:11.51,0:09:14.64,Default,,0,0,0,,{\i1}and that was given the grand{\i0}\N{\i1}treatment by the Novel system.{\i0}
+Dialogue: 0,0:09:14.72,0:09:17.77,Default,,0,0,0,,{\i1}She even became a semi-official{\i0}\N{\i1}character in the game.{\i0}
+Dialogue: 0,0:09:18.31,0:09:22.10,Default,,0,0,0,,{\i1}However, an era with a single, powerful{\i0}\N{\i1}ruler doesn't make for a very fun game.{\i0}
+Dialogue: 0,0:09:22.48,0:09:25.94,Default,,0,0,0,,{\i1}So I negotiated with the{\i0}\N{\i1}other high-level players{\i0}
+Dialogue: 0,0:09:26.32,0:09:28.28,Default,,0,0,0,,{\i1}to split our forces into the{\i0}\N{\i1}Conqueror's Army led by Lufas{\i0}
+Dialogue: 0,0:09:28.36,0:09:31.11,Default,,0,0,0,,{\i1}and the Army of Light led by the "Heroes,"{\i0}
+Dialogue: 0,0:09:31.20,0:09:32.95,Default,,0,0,0,,{\i1}and we conducted a War.{\i0}
+Dialogue: 0,0:09:33.57,0:09:37.12,Default,,0,0,0,,{\i1}We held the greatest battle{\i0}\N{\i1}in the history of the game,{\i0}
+Dialogue: 0,0:09:37.20,0:09:39.16,Default,,0,0,0,,{\i1}completely ignoring the official final boss!{\i0}
+Dialogue: 0,0:09:39.83,0:09:42.42,Default,,0,0,0,,{\i1}Then I—err, Lufas, rather—lost,{\i0}
+Dialogue: 0,0:09:42.50,0:09:44.92,Default,,0,0,0,,{\i1}and got sealed away in subspace.{\i0}
+Dialogue: 0,0:09:48.30,0:09:51.72,Default,,0,0,0,,{\i1}Never thought I'd actually{\i0}\N{\i1}get to come here to my—{\i0}
+Dialogue: 0,0:09:51.80,0:09:56.05,Default,,0,0,0,,{\an8}THE SKY TOWER OF MAPHAAHL\N- {\i1}No, to {\i0}our{\i1} base, the Sky Tower of Maphaahl.{\i0}
+Dialogue: 0,0:10:05.48,0:10:06.52,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:10:13.86,0:10:16.33,Default,,0,0,0,,Of course it's seen decline.
+Dialogue: 0,0:10:16.41,0:10:18.74,Default,,0,0,0,,Though the spirit remains.
+Dialogue: 0,0:10:22.66,0:10:24.25,Default,,0,0,0,,What an odd feeling.
+Dialogue: 0,0:10:24.33,0:10:27.88,Default,,0,0,0,,It's our first time actually seeing it,\Nbut it feels nostalgic.
+Dialogue: 0,0:10:34.39,0:10:37.35,Default,,0,0,0,,{\i1}Right. Back then I had my friends with me.{\i0}
+Dialogue: 0,0:10:37.72,0:10:40.52,Default,,0,0,0,,{\i1}We'd chat about how we were{\i0}\N{\i1}going to expand our forces,{\i0}
+Dialogue: 0,0:10:40.60,0:10:42.64,Default,,0,0,0,,{\i1}down liquor like fools,{\i0}\N{\i1}and revel in our merriment.{\i0}
+Dialogue: 0,0:10:46.31,0:10:48.19,Default,,0,0,0,,{\i1}What was that memory just now?{\i0}
+Dialogue: 0,0:11:06.83,0:11:08.34,Default,,0,0,0,,Mistress Lufas!
+Dialogue: 0,0:11:08.42,0:11:10.46,Default,,0,0,0,,It's really you, Mistress Lufas Maphaahl!
+Dialogue: 0,0:11:10.84,0:11:12.09,Default,,0,0,0,,It's been so long!
+Dialogue: 0,0:11:12.17,0:11:17.14,Default,,0,0,0,,I've been waiting for your return\Nfor the past two hundred years!
+Dialogue: 0,0:11:18.01,0:11:20.06,Default,,0,0,0,,- And you...\N- Yes!
+Dialogue: 0,0:11:21.01,0:11:22.06,Default,,0,0,0,,...would be?
+Dialogue: 0,0:11:22.14,0:11:23.35,Default,,0,0,0,,Gah!
+Dialogue: 0,0:11:23.81,0:11:27.52,Default,,0,0,0,,Only those we have permitted to enter\Nshould be able to enter this tower.
+Dialogue: 0,0:11:28.98,0:11:31.90,Default,,0,0,0,,H-Have you forgotten me?
+Dialogue: 0,0:11:33.65,0:11:37.24,Default,,0,0,0,,It's me! Your loyal advisor, Dina!
+Dialogue: 0,0:11:37.32,0:11:40.12,Default,,0,0,0,,Advisor? We never...
+Dialogue: 0,0:11:41.29,0:11:45.66,Default,,0,0,0,,{\i1}When I created our base, I placed a{\i0}\N{\i1}young NPC here as part of the backdrop.{\i0}
+Dialogue: 0,0:11:45.96,0:11:50.21,Default,,0,0,0,,{\i1}I think I remember giving her the{\i0}\N{\i1}odd background of "Lufas's Advisor."{\i0}
+Dialogue: 0,0:11:51.17,0:11:53.63,Default,,0,0,0,,{\i1}So a background NPC gained self-awareness{\i0}
+Dialogue: 0,0:11:53.71,0:11:55.38,Default,,0,0,0,,{\i1}and waited for me?{\i0}
+Dialogue: 0,0:11:55.47,0:11:58.93,Default,,0,0,0,,{\i1}Is this... not the game world?{\i0}
+Dialogue: 0,0:12:00.68,0:12:02.43,Default,,0,0,0,,Forgive us, Dina.
+Dialogue: 0,0:12:02.51,0:12:06.89,Default,,0,0,0,,Something must be wrong with us\Nto forget about one as loyal as you.
+Dialogue: 0,0:12:07.48,0:12:08.77,Default,,0,0,0,,You have served us well.
+Dialogue: 0,0:12:08.85,0:12:12.77,Default,,0,0,0,,Good work protecting this\Ntower during our absence.
+Dialogue: 0,0:12:12.86,0:12:15.36,Default,,0,0,0,,Y-You honor me with your words!
+Dialogue: 0,0:12:21.03,0:12:25.95,Default,,0,0,0,,...and so, we were summoned from\Nsubspace and able to return.
+Dialogue: 0,0:12:26.04,0:12:27.71,Default,,0,0,0,,So that's how.
+Dialogue: 0,0:12:27.79,0:12:31.75,Default,,0,0,0,,Those humans who summoned you\Nmust have been quite shocked.
+Dialogue: 0,0:12:31.79,0:12:34.38,Default,,0,0,0,,Shocked would be putting it mildly.
+Dialogue: 0,0:12:34.46,0:12:36.42,Default,,0,0,0,,I don't blame them.
+Dialogue: 0,0:12:36.51,0:12:39.84,Default,,0,0,0,,The nation to the west?\NThat would be Laevateinn.
+Dialogue: 0,0:12:39.93,0:12:43.64,Default,,0,0,0,,They've been preparing the\NHero Summoning for a while now.
+Dialogue: 0,0:12:44.01,0:12:48.27,Default,,0,0,0,,Dina. Could you inform us of what\Nhas occurred since we departed?
+Dialogue: 0,0:12:48.35,0:12:49.31,Default,,0,0,0,,Yes!
+Dialogue: 0,0:12:49.39,0:12:53.27,Default,,0,0,0,,First of all, the loathsome\NHeroes that defeated you...
+Dialogue: 0,0:12:54.23,0:12:56.82,Default,,0,0,0,,they later became known as the Seven Heroes,
+Dialogue: 0,0:12:56.90,0:12:58.90,Default,,0,0,0,,and they each founded their own nation.
+Dialogue: 0,0:12:59.20,0:13:02.32,Default,,0,0,0,,Four of them have already passed from old age,
+Dialogue: 0,0:13:02.41,0:13:04.78,Default,,0,0,0,,and the three with longer\Nlifespans are still alive.
+Dialogue: 0,0:13:05.24,0:13:07.95,Default,,0,0,0,,Hmm, the Seven Heroes?
+Dialogue: 0,0:13:08.41,0:13:12.42,Default,,0,0,0,,{\i1}I wonder if they're actually{\i0}\N{\i1}other players like me?{\i0}
+Dialogue: 0,0:13:12.50,0:13:14.84,Default,,0,0,0,,The Devil King remains alive and well.
+Dialogue: 0,0:13:14.92,0:13:18.92,Default,,0,0,0,,Though that's because the Devil King\Ncrushed the Seven Heroes.
+Dialogue: 0,0:13:19.05,0:13:21.47,Default,,0,0,0,,Sheesh, talk about disappointing and useless.
+Dialogue: 0,0:13:21.76,0:13:22.80,Default,,0,0,0,,What else?
+Dialogue: 0,0:13:22.89,0:13:25.43,Default,,0,0,0,,The Twelve Heavenly Stars are still around.
+Dialogue: 0,0:13:26.18,0:13:27.27,Default,,0,0,0,,Oh?
+Dialogue: 0,0:13:27.68,0:13:32.23,Default,,0,0,0,,{\i1}The Twelve Heavenly Stars' proper name was{\i0}\N{\i1}the Conquering Twelve Heavenly Stars.{\i0}
+Dialogue: 0,0:13:32.31,0:13:34.86,Default,,0,0,0,,{\i1}They were what you would call{\i0}\N{\i1}companion monster NPCs.{\i0}
+Dialogue: 0,0:13:35.82,0:13:40.28,Default,,0,0,0,,{\i1}I was lucky to recruit several rare{\i0}\N{\i1}monsters that were difficult to obtain,{\i0}
+Dialogue: 0,0:13:40.36,0:13:42.11,Default,,0,0,0,,{\i1}and I granted the title of{\i0}\N{\i1}Twelve Heavenly Stars{\i0}
+Dialogue: 0,0:13:42.20,0:13:45.08,Default,,0,0,0,,{\i1}to the ones that were especially powerful.{\i0}
+Dialogue: 0,0:13:45.41,0:13:48.37,Default,,0,0,0,,{\i1}There was a time when I{\i0}\N{\i1}thought that a major boss{\i0}
+Dialogue: 0,0:13:48.45,0:13:52.04,Default,,0,0,0,,{\i1}should have something like the classic{\i0}\N{\i1}"four elite generals" serving them.{\i0}
+Dialogue: 0,0:13:52.58,0:13:54.04,Default,,0,0,0,,How are they all faring?
+Dialogue: 0,0:13:54.13,0:13:56.38,Default,,0,0,0,,I know the whereabouts of six.
+Dialogue: 0,0:13:56.46,0:14:02.01,Default,,0,0,0,,Two of them joined the Devil King's army to\Nseek vengeance on the humans who defeated you.
+Dialogue: 0,0:14:02.09,0:14:04.30,Default,,0,0,0,,They joined the Devil King?
+Dialogue: 0,0:14:04.39,0:14:06.93,Default,,0,0,0,,Even though our own shame invited that,
+Dialogue: 0,0:14:07.22,0:14:09.93,Default,,0,0,0,,that was a terribly disgraceful thing to do.
+Dialogue: 0,0:14:10.06,0:14:12.44,Default,,0,0,0,,It seems we need to give\Nthem a good reaming out.
+Dialogue: 0,0:14:14.69,0:14:16.40,Default,,0,0,0,,Still, this is good.
+Dialogue: 0,0:14:16.48,0:14:18.07,Default,,0,0,0,,Now we have a goal.
+Dialogue: 0,0:14:18.15,0:14:22.74,Default,,0,0,0,,We were hoping to see the current state\Nof the world for ourselves as well.
+Dialogue: 0,0:14:22.99,0:14:27.41,Default,,0,0,0,,{\i1}I need to verify if the three{\i0}\N{\i1}Heroes are also players like me.{\i0}
+Dialogue: 0,0:14:27.49,0:14:28.45,Default,,0,0,0,,{\i1}Not to mention...{\i0}
+Dialogue: 0,0:14:28.54,0:14:29.54,Default,,0,0,0,,Dina.
+Dialogue: 0,0:14:30.33,0:14:33.42,Default,,0,0,0,,We're now setting out on a journey\Nto gather the Twelve Heavenly Stars.
+Dialogue: 0,0:14:33.75,0:14:37.80,Default,,0,0,0,,It's our responsibility to stop those\Nwho would act foolishly.
+Dialogue: 0,0:14:39.21,0:14:40.26,Default,,0,0,0,,Yes!
+Dialogue: 0,0:14:41.30,0:14:44.18,Default,,0,0,0,,The one closest to our\Ncurrent location is here:
+Dialogue: 0,0:14:44.26,0:14:45.80,Default,,0,0,0,,Svel.
+Dialogue: 0,0:14:45.89,0:14:47.81,Default,,0,0,0,,This is where one of the Seven Heroes,
+Dialogue: 0,0:14:47.89,0:14:49.43,Default,,0,0,0,,Megrez, has taken up residence,
+Dialogue: 0,0:14:49.51,0:14:52.39,Default,,0,0,0,,and one of the Twelve Heavenly Stars,\NAries the Ram,
+Dialogue: 0,0:14:52.48,0:14:54.02,Default,,0,0,0,,is located at the base of the nearby volcano.
+Dialogue: 0,0:14:54.10,0:14:58.52,Default,,0,0,0,,Aries has been repeatedly trying to invade Svel.
+Dialogue: 0,0:14:58.61,0:14:59.61,Default,,0,0,0,,Then it seems...
+Dialogue: 0,0:14:59.94,0:15:02.32,Default,,0,0,0,,- we have our destination.\N- Wait!
+Dialogue: 0,0:15:02.40,0:15:04.86,Default,,0,0,0,,- Please wait, Mistress Lufas!\N- What is it?
+Dialogue: 0,0:15:04.95,0:15:07.24,Default,,0,0,0,,Are you planning to go there\Nwithout making any preparations?
+Dialogue: 0,0:15:07.32,0:15:09.33,Default,,0,0,0,,Do you have any money on you?
+Dialogue: 0,0:15:09.41,0:15:11.12,Default,,0,0,0,,Do {\i1}you{\i0} not have any?
+Dialogue: 0,0:15:11.20,0:15:15.37,Default,,0,0,0,,After waiting for you for so long,\NI've become penniless!
+Dialogue: 0,0:15:16.71,0:15:18.71,Default,,0,0,0,,Then we simply must earn the funds.
+Dialogue: 0,0:15:18.79,0:15:19.75,Default,,0,0,0,,Right.
+Dialogue: 0,0:15:19.84,0:15:23.47,Default,,0,0,0,,However, I must inform you that\Nwill be incredibly difficult.
+Dialogue: 0,0:15:23.72,0:15:26.55,Default,,0,0,0,,Mistress Lufas, your face is too well-known now.
+Dialogue: 0,0:15:27.39,0:15:29.26,Default,,0,0,0,,Over two hundred years have passed.
+Dialogue: 0,0:15:29.35,0:15:33.06,Default,,0,0,0,,- There shouldn't be any who remember—\N- Naive! That's naive!
+Dialogue: 0,0:15:33.14,0:15:37.94,Default,,0,0,0,,Long-lived races like the elves still have\Nfresh memories of you, Mistress Lufas!
+Dialogue: 0,0:15:38.02,0:15:39.65,Default,,0,0,0,,Especially those wings!
+Dialogue: 0,0:15:39.73,0:15:41.94,Default,,0,0,0,,Those black wings stand out in a {\i1}bad{\i0} way!
+Dialogue: 0,0:15:42.03,0:15:45.57,Default,,0,0,0,,They're considered abhorrent\Namong the heaven-winged!
+Dialogue: 0,0:15:45.65,0:15:47.36,Default,,0,0,0,,But black is common, right?
+Dialogue: 0,0:15:47.45,0:15:48.57,Default,,0,0,0,,If anything, it's plain and dull?
+Dialogue: 0,0:15:48.66,0:15:51.28,Default,,0,0,0,,It's not. Common. At all!
+Dialogue: 0,0:15:51.37,0:15:54.20,Default,,0,0,0,,Fine, fine. Stop shouting.
+Dialogue: 0,0:15:54.54,0:15:56.50,Default,,0,0,0,,Then what do you suggest we do?
+Dialogue: 0,0:15:56.58,0:15:58.75,Default,,0,0,0,,There's just one way to earn money.
+Dialogue: 0,0:15:58.83,0:16:02.25,Default,,0,0,0,,This job doesn't care about\Nyour background or identity!
+Dialogue: 0,0:16:02.34,0:16:03.34,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:16:04.76,0:16:07.72,Default,,0,0,0,,Ah, risking your life for money.
+Dialogue: 0,0:16:07.80,0:16:08.80,Default,,0,0,0,,In other words,
+Dialogue: 0,0:16:08.93,0:16:10.30,Default,,0,0,0,,adventuring.
+Dialogue: 0,0:16:10.39,0:16:11.64,Default,,0,0,0,,That's right!
+Dialogue: 0,0:16:11.72,0:16:16.43,Default,,0,0,0,,Let's go accept quests as adventurers\Nand earn their rewards!
+Dialogue: 0,0:16:18.60,0:16:19.86,Default,,0,0,0,,{\an8}TRADE CITY\NOF YDALIR
+Dialogue: 0,0:16:24.61,0:16:27.45,Default,,0,0,0,,Dina, it's difficult to walk like this.
+Dialogue: 0,0:16:27.53,0:16:29.28,Default,,0,0,0,,Please bear with it.
+Dialogue: 0,0:16:29.36,0:16:31.41,Default,,0,0,0,,You're famous, after all.
+Dialogue: 0,0:16:31.83,0:16:34.41,Default,,0,0,0,,You don't want to draw\Nunwanted attention, right?
+Dialogue: 0,0:16:35.29,0:16:38.79,Default,,0,0,0,,We think we're drawing a\Ndifferent kind of attention.
+Dialogue: 0,0:16:41.75,0:16:43.71,Default,,0,0,0,,H-Hello.
+Dialogue: 0,0:16:45.05,0:16:47.51,Default,,0,0,0,,This sense of being in a den of lowlifes...
+Dialogue: 0,0:16:47.59,0:16:48.72,Default,,0,0,0,,it's nostalgic.
+Dialogue: 0,0:16:48.80,0:16:52.93,Default,,0,0,0,,That reminds me, you were an adventurer\Nbefore you founded your nation, weren't you?
+Dialogue: 0,0:16:53.01,0:16:54.06,Default,,0,0,0,,Yes.
+Dialogue: 0,0:16:54.85,0:16:56.39,Default,,0,0,0,,"Nostalgic"?
+Dialogue: 0,0:16:56.47,0:16:58.85,Default,,0,0,0,,Hmm? Is something the matter?
+Dialogue: 0,0:16:58.94,0:16:59.94,Default,,0,0,0,,Think nothing of it.
+Dialogue: 0,0:17:01.40,0:17:02.90,Default,,0,0,0,,{\i1}I'm overthinking it.{\i0}
+Dialogue: 0,0:17:03.73,0:17:06.53,Default,,0,0,0,,- What about this one?\N- Which one?
+Dialogue: 0,0:17:06.61,0:17:09.86,Default,,0,0,0,,Twelve hundred el just for\Nfinding a dozen cats!
+Dialogue: 0,0:17:09.95,0:17:10.95,Default,,0,0,0,,That's a bargain!
+Dialogue: 0,0:17:11.57,0:17:14.08,Default,,0,0,0,,That is an exceptional reward,
+Dialogue: 0,0:17:14.16,0:17:16.75,Default,,0,0,0,,but finding things is not our forte.
+Dialogue: 0,0:17:16.83,0:17:19.71,Default,,0,0,0,,That's what beastfolk are talented in.
+Dialogue: 0,0:17:19.79,0:17:22.50,Default,,0,0,0,,I see. Hmm...
+Dialogue: 0,0:17:23.17,0:17:24.84,Default,,0,0,0,,How about this one?!
+Dialogue: 0,0:17:24.92,0:17:26.59,Default,,0,0,0,,Exterminating orcs?
+Dialogue: 0,0:17:27.30,0:17:30.43,Default,,0,0,0,,{\an8}ORCS (PORK BOWLS)\N- {\i1}Orcs. Also called "pork bowls".{\i0}
+Dialogue: 0,0:17:30.51,0:17:31.76,Default,,0,0,0,,{\an8}ORCS (PORK BOWLS)\N- {\i1}When you defeated one in the game,{\i0}
+Dialogue: 0,0:17:31.84,0:17:36.68,Default,,0,0,0,,{\an8}{\i1}there was a 3% chance they would drop{\i0}\N{\i1}"Orc Meat," an item that raised your Max HP.{\i0}
+Dialogue: 0,0:17:36.77,0:17:39.85,Default,,0,0,0,,{\an8}ORCS (PORK BOWLS)\N- {\i1}A solid choice for farming.{\i0}
+Dialogue: 0,0:17:40.27,0:17:43.73,Default,,0,0,0,,Hmm. The reward is 1500 el?
+Dialogue: 0,0:17:43.81,0:17:45.86,Default,,0,0,0,,That will suffice.
+Dialogue: 0,0:17:47.23,0:17:48.49,Default,,0,0,0,,{\an8}AISLE VILLAGE
+Dialogue: 0,0:17:49.24,0:17:51.28,Default,,0,0,0,,They've wreaked havoc on our village,
+Dialogue: 0,0:17:51.36,0:17:53.16,Default,,0,0,0,,kidnapped our women,
+Dialogue: 0,0:17:53.24,0:17:55.53,Default,,0,0,0,,and killed our younger men.
+Dialogue: 0,0:17:55.62,0:17:58.08,Default,,0,0,0,,We can't take it anymore.
+Dialogue: 0,0:17:58.45,0:18:03.04,Default,,0,0,0,,Please deliver judgment to those\Nloathsome pigs any way you can!
+Dialogue: 0,0:18:03.12,0:18:05.63,Default,,0,0,0,,Yes! Those orcs will be thoroughly
+Dialogue: 0,0:18:06.00,0:18:08.71,Default,,0,0,0,,crushed, along with their den!
+Dialogue: 0,0:18:08.80,0:18:10.21,Default,,0,0,0,,By this woman!
+Dialogue: 0,0:18:12.88,0:18:16.22,Default,,0,0,0,,Please save our village.
+Dialogue: 0,0:18:16.30,0:18:17.68,Default,,0,0,0,,Please.
+Dialogue: 0,0:18:18.02,0:18:19.10,Default,,0,0,0,,Of course.
+Dialogue: 0,0:18:19.22,0:18:20.85,Default,,0,0,0,,Consider the matter settled.
+Dialogue: 0,0:18:28.69,0:18:31.03,Default,,0,0,0,,Every time I see them, they're just so hideous.
+Dialogue: 0,0:18:31.11,0:18:37.16,Default,,0,0,0,,I bet even Goddess Alovenus surely laments\Ncreating such a revolting failure!
+Dialogue: 0,0:18:37.24,0:18:39.74,Default,,0,0,0,,You have quite the sharp tongue.
+Dialogue: 0,0:18:40.16,0:18:41.62,Default,,0,0,0,,Those of the cloth teach
+Dialogue: 0,0:18:41.71,0:18:45.42,Default,,0,0,0,,that the goddess is merciful\Nand loves all equally.
+Dialogue: 0,0:18:45.50,0:18:47.25,Default,,0,0,0,,That's a blatant lie!
+Dialogue: 0,0:18:47.34,0:18:50.17,Default,,0,0,0,,The goddess is quite a picky woman!
+Dialogue: 0,0:18:50.51,0:18:52.92,Default,,0,0,0,,Oh? Is that so?
+Dialogue: 0,0:18:53.05,0:18:55.64,Default,,0,0,0,,Now, please wipe those orcs out quickly!
+Dialogue: 0,0:18:55.72,0:18:56.72,Default,,0,0,0,,Mistress Lufas!
+Dialogue: 0,0:18:56.80,0:18:58.06,Default,,0,0,0,,As you wish.
+Dialogue: 0,0:18:58.56,0:19:00.31,Default,,0,0,0,,Let's eliminate them quickly.
+Dialogue: 0,0:19:05.69,0:19:09.23,Default,,0,0,0,,{\i1}That's right. Maybe I'm still{\i0}\N{\i1}able to check my stats?{\i0}
+Dialogue: 0,0:19:11.19,0:19:13.40,Default,,0,0,0,,{\an8}LUFAS MAPHAAHL\N- {\i1}Good. I'm at max level.{\i0}
+Dialogue: 0,0:19:15.15,0:19:17.07,Default,,0,0,0,,{\an8}LUFAS MAPHAAHL\N- {\i1}Everything seems consistent with the game.{\i0}
+Dialogue: 0,0:19:17.16,0:19:20.08,Default,,0,0,0,,{\i1}So then it's on me.{\i0}
+Dialogue: 0,0:19:20.16,0:19:24.29,Default,,0,0,0,,{\i1}Can I truly bring myself to kill monsters?{\i0}
+Dialogue: 0,0:19:27.75,0:19:28.96,Default,,0,0,0,,Alchemize.
+Dialogue: 0,0:19:38.43,0:19:39.72,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:19:43.31,0:19:44.39,Default,,0,0,0,,Execute.
+Dialogue: 0,0:19:50.52,0:19:52.11,Default,,0,0,0,,{\i1}Ugh! Gross!{\i0}
+Dialogue: 0,0:19:52.98,0:19:54.78,Default,,0,0,0,,{\i1}It's odd.{\i0}
+Dialogue: 0,0:19:54.86,0:19:57.36,Default,,0,0,0,,{\i1}My mind isn't disturbed by this.{\i0}
+Dialogue: 0,0:20:01.37,0:20:02.45,Default,,0,0,0,,Mistress Lufas!
+Dialogue: 0,0:20:17.38,0:20:18.47,Default,,0,0,0,,{\i1}Slow.{\i0}
+Dialogue: 0,0:20:18.72,0:20:19.93,Default,,0,0,0,,{\i1}They're too slow.{\i0}
+Dialogue: 0,0:20:20.26,0:20:22.89,Default,,0,0,0,,{\i1}Why are they moving like{\i0}\N{\i1}they aren't even trying?{\i0}
+Dialogue: 0,0:20:23.10,0:20:25.31,Default,,0,0,0,,{\i1}Are these things screwing around?{\i0}
+Dialogue: 0,0:20:25.39,0:20:27.31,Default,,0,0,0,,{\i1}There's no need to generate swords.{\i0}
+Dialogue: 0,0:20:42.20,0:20:43.24,Default,,0,0,0,,So frail.
+Dialogue: 0,0:20:44.62,0:20:46.45,Default,,0,0,0,,Far too frail.
+Dialogue: 0,0:20:48.33,0:20:49.46,Default,,0,0,0,,Hey,
+Dialogue: 0,0:20:49.87,0:20:52.21,Default,,0,0,0,,did you not see what we just did?
+Dialogue: 0,0:21:14.73,0:21:15.82,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:21:16.69,0:21:18.28,Default,,0,0,0,,I understand.
+Dialogue: 0,0:21:25.79,0:21:29.16,Default,,0,0,0,,{\i1}There's an overwhelming gap between the{\i0}\N{\i1}flow of time for myself and the orcs.{\i0}
+Dialogue: 0,0:21:29.25,0:21:32.13,Default,,0,0,0,,{\i1}They aren't frail or slow.{\i0}
+Dialogue: 0,0:21:35.92,0:21:38.46,Default,,0,0,0,,{\i1}I'm simply too strong and fast.{\i0}
+Dialogue: 0,0:21:45.64,0:21:48.43,Default,,0,0,0,,{\i1}This isn't even combat.{\i0}
+Dialogue: 0,0:21:48.52,0:21:50.39,Default,,0,0,0,,{\i1}It's not even playing around.{\i0}
+Dialogue: 0,0:22:03.11,0:22:04.87,Default,,0,0,0,,{\i1}This is...{\i0}
+Dialogue: 0,0:22:05.24,0:22:06.62,Default,,0,0,0,,{\i1}just simple slaughter.{\i0}
+Dialogue: 0,0:22:06.70,0:22:09.91,Default,,0,0,0,,{\an8}EPISODE 1\NA WILD LAST BOSS APPEARS!
